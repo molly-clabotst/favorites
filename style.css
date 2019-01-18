@@ -1,0 +1,18 @@
+p{
+    color: darksalmon;
+    font-size: 20px;
+}
+h1{
+    color: salmon;}
+h2{ color: indigo;}
+h3{ color: blueviolet}
+body{background-color: olive;}
+ul{color: darksalmon;
+font-size: 20px;
+list-style-type: georgian}
+img{border: indigo 25px ridge;
+alignment: center}
+a{text-decoration: none;}
+#favorite\ genre:hover{ background-color: darkkhaki;}
+#favorite\ movie:hover{background-color: darkkhaki;}
+#Favorite:hover{background-color: darkkhaki;}
