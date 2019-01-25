@@ -1,18 +1,31 @@
-p{
-    color: darksalmon;
-    font-size: 20px;
-}
-h1{
-    color: salmon;}
-h2{ color: indigo;}
-h3{ color: blueviolet}
+.favorite_section{border: indigo 3px dotted; margin: 5px; padding: 5px}
+.section_header{ color: indigo;}
 body{background-color: olive;}
-ul{color: darksalmon;
-font-size: 20px;
-list-style-type: georgian}
-img{border: indigo 25px ridge;
-alignment: center}
-a{text-decoration: none;}
-#favorite\ genre:hover{ background-color: darkkhaki;}
+#favorite\ movie{font-style: italic;}
+#favorite-music-genre-name{background-color: firebrick}
+#most-favorite-food:hover{background-color: indigo;}
+.favorite-image{border: indigo 25px groove; border-radius: 8px;}
+img{border: indigo 25px ridge; max-width: 100%; height: auto; display: block;
+    margin-left: auto; margin-right: auto; width: 50%;}
+th{color: indigo}
+td{color: salmon}
+td:hover{background-color: darkkhaki;}
+table{border: indigo 25px groove; margin: 5px; padding: 5px;}
+table{margin-left: auto; margin-right: auto;}
+
 #favorite\ movie:hover{background-color: darkkhaki;}
-#Favorite:hover{background-color: darkkhaki;}
+#favorite\ movie{color: blueviolet}
+#favorite-music-genre{color: blueviolet}
+#favorite-music-genre:hover{ background-color: darkkhaki;}
+#fav\ food2:hover{background-color: darkkhaki;}
+#fav\ food3:hover{background-color: darkkhaki;}
+.fav_books{color: indigo; font-size: 20px;}
+
+p{color: salmon; font-size: 20px;}
+h1{color: salmon; text-align: center;}
+h3{ color: blueviolet}
+ul{color: salmon; font-size: 20px; list-style-type: inherit;}
+a{text-decoration: none; color: firebrick;}
+
+
+
